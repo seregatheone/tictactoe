@@ -1,0 +1,16 @@
+{
+  "gameTypes": [
+    {
+      "name": 3,
+      "gameField": "nnnnnnnnn",
+      "turn": "false",
+      "charInRow": 3
+    },
+    {
+      "name": 4,
+      "gameField": "nnnnnnnnnnnnnnnn",
+      "turn": "false",
+      "charInRow": 3
+    }
+  ]
+}
